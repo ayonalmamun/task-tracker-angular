@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Waking up for office",
+      "day": "March 29th at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at office",
+      "day": "March 29th at 5:00pm",
+      "reminder": false
+    },
+    {
+      "text": "Lunch e kachchi",
+      "day": "March 29th at 2:00pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Dinner e Pasta",
+      "day": "March 29th at 8:00pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}

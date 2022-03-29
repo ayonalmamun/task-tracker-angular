@@ -1,0 +1,12 @@
+ng generate component components/header
+
+ngStyle
+
+ngFor
+
+
+ng generate service services/task
+
+npm run server
+
+ngClass
